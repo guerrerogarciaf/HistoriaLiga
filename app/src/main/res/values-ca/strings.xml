@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Fútbol Español</string>
+    <string name="compartir">Compartir</string>
+    <string name="puntuar">Puntuar</string>
+    <string name="recomendar">Recomendar</string>
+    <string name="enviar_a">Compartir "Historia de la Liga" a través de</string>
+    <string name="compartir_app">https://play.google.com/store/apps/details?id=fgaplicaciones.com.historialiga</string>
+    <string name="casa">Casa</string>
+    <string name="fuera">Fuera</string>
+    <string name="totales">Totales</string>
+    <string name="equipo">Equipo</string>
+    <string name="puntos">Pt</string>
+    <string name="jugados">J</string>
+    <string name="ganados">G</string>
+    <string name="empatados">E</string>
+    <string name="perdidos">P</string>
+    <string name="goles_favor">GF</string>
+    <string name="goles_contra">GC</string>
+    <string name="opciones">Opciones</string>
+    <string name="temporada">Temporada</string>
+    <string name="temporada_abr">Temp.</string>
+    <string name="ganador">Ganador</string>
+    <string name="goleadores">Goleadores</string>
+    <string name="jugador">Jugador</string>
+    <string name="pais">País</string>
+    <string name="goles">Goles</string>
+    <string name="partidos">Partidos</string>
+    <string name="media">Media</string>
+    <string name="menu">Menú</string>
+    <string name="partido">Partido</string>
+    <string name="resultado">Resultado</string>
+    <string name="resultado_abr">Res.</string>
+    <string name="resultados">Resultados</string>
+    <string name="jornada">Jornada</string>
+    <string name="copa">Copa del Rey</string>
+    <string name="campeon">Campeón</string>
+    <string name="subcampeon">Subcampeón</string>
+    <string name="año">Año</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="descargando">Descargando datos</string>
+    <string name="completada">Descarga completada</string>
+    <string name="error_descarga">Error en la descarga</string>
+    <string-array name="divisiones">
+        <item>Primera división</item>
+        <item>Segunda división</item>
+    </string-array>
+    <string-array name="navigation_drawer">
+        <item>Clasificaciones Liga</item>
+        <item>Resultados Liga</item>
+        <item>Campeones Liga</item>
+        <item>Máximos goleadores</item>
+        <item>Copa del Rey</item>
+    </string-array>
+    <string name="clasificaciones">Clasificaciones</string>
+    <string name="campeones">Campeones</string>
+    <string name="drawer_abierto">Abrir menú</string>
+    <string name="drawer_cerrado">Cerrar menú</string>
+</resources>

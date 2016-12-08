@@ -1,0 +1,50 @@
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:paddingLeft="3dp"
+            android:layout_gravity="left"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <Spinner
+                android:id="@+id/spinnerDivisionGn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                />
+        </LinearLayout>
+        <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"/>
+        <LinearLayout
+            android:paddingTop="2dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="3dp"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_gravity="center_horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <include
+                    android:id="@+id/encabezado"
+                    layout="@layout/encabezado_ganadores"/>
+                <ListView android:id="@+id/listViewGn"
+                    android:paddingTop="2dp"
+                    android:layout_width="match_parent"
+                    android:dividerHeight="0dp"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="4dp" />
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/banner_ganadores"
+                android:orientation="horizontal"
+                android:layout_width="320dp"
+                android:layout_height="50dp"/>
+        </LinearLayout>
+    </LinearLayout>

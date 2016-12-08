@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+    <TextView
+        android:id="@+id/textViewTemporadaCp"
+        android:gravity="center"
+        android:layout_width="45dp"
+        android:textSize="14sp"
+        android:layout_height="wrap_content">
+    </TextView>
+    <TextView
+        android:id="@+id/textViewGanadorCp"
+        android:paddingLeft="3dp"
+        android:gravity="right"
+        android:layout_width="100dp"
+        android:textSize="14sp"
+        android:layout_height="wrap_content">
+    </TextView>
+
+    <TextView
+        android:paddingLeft="3dp"
+        android:id="@+id/textViewResultadoCp"
+        android:gravity="center"
+        android:layout_width="45dp"
+        android:textSize="14sp"
+        android:layout_height="wrap_content">
+    </TextView>
+    <TextView
+        android:id="@+id/textViewFinalistaCp"
+        android:gravity="left"
+        android:layout_width="100dp"
+        android:textSize="14sp"
+        android:layout_height="wrap_content">
+    </TextView>
+
+</LinearLayout>

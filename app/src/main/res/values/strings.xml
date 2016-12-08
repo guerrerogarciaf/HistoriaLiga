@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Spanish Football</string>
+    <string name="compartir">Share</string>
+    <string name="puntuar">Rate</string>
+    <string name="recomendar">Recommend</string>
+    <string name="enviar_a">Share "History of La Liga" through</string>
+    <string name="compartir_app">https://play.google.com/store/apps/details?id=fgaplicaciones.com.historialiga</string>
+    <string name="casa">Home</string>
+    <string name="fuera">Away</string>
+    <string name="totales">Overall</string>
+    <string name="equipo">Team</string>
+    <string name="puntos">Pt</string>
+    <string name="jugados">P</string>
+    <string name="ganados">W</string>
+    <string name="empatados">D</string>
+    <string name="perdidos">L</string>
+    <string name="goles_favor">F</string>
+    <string name="goles_contra">A</string>
+    <string name="opciones">Options</string>
+    <string name="temporada">Season</string>
+    <string name="temporada_abr">Seas.</string>
+    <string name="ganador">Winner</string>
+    <string name="goleadores">Top scorers</string>
+    <string name="jugador">Player</string>
+    <string name="pais">Country</string>
+    <string name="goles">Goals</string>
+    <string name="partidos">Matches</string>
+    <string name="media">Average</string>
+    <string name="menu">Menu</string>
+    <string name="partido">Match</string>
+    <string name="resultado">Result</string>
+    <string name="resultado_abr">Res.</string>
+    <string name="resultados">Results</string>
+    <string name="jornada">Gameweek</string>
+    <string name="copa">King\'s Cup</string>
+    <string name="campeon">Winner</string>
+    <string name="subcampeon">Runner-up</string>
+    <string name="año">Year</string>
+    <string name="actualizar">Refresh</string>
+    <string name="descargando">Downloading data</string>
+    <string name="completada">Download completed</string>
+    <string name="error_descarga">Error downloading file</string>
+    <string-array name="divisiones">
+        <item>First division</item>
+        <item>Second division</item>
+    </string-array>
+    <string-array name="navigation_drawer">
+        <item>League Standings</item>
+        <item>League Results</item>
+        <item>League Champions</item>
+        <item>Top scorers</item>
+        <item>King\'s Cup</item>
+    </string-array>
+    <string name="clasificaciones">Standings</string>
+    <string name="campeones">Champions</string>
+    <string name="drawer_abierto">Open navigation drawer</string>
+    <string name="drawer_cerrado">Close navigation drawer</string>
+</resources>
